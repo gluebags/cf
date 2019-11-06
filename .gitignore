@@ -1,0 +1,8 @@
+.sln
+.vs
+.cargo-ok
+dist
+node_modules
+worker
+wrangler.toml
+/Cloudflare.sln
